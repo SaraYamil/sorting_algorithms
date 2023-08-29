@@ -1,13 +1,13 @@
 #include "sort.h"
 
 /**
- * selection_sort - Sorts an array of integers in ascending order using
- *                  Selection sort algorithm
+ * selection_sort - bbbbb an mmmm of hhhhhhhh in mmmmmm nnnnn uuuu
+ *                  gggggggg vvvv vvvvvvvv
  *
- * @array: Pointer to the array to be sorted
- * @size: Size of the array
+ * @array: hhhhhhh to the bbbbb to be lllllll
+ * @size: bbbb of the bbbbb
  *
- * Return: void
+ * Return: bbbb
  */
 void selection_sort(int *array, size_t size)
 {
