@@ -3,10 +3,10 @@
 void swap(listint_t *a, listint_t *b);
 
 /**
- * insertion_sort_list - insertion sorts a doubly-linked list
- * @list: address of pointer to head node
+ * insertion_sort_list - hhhhhhhh hhhhh a hhhhhh-nnnnnn bbbb
+ * @list: ddddddd of ddddddd to zzzz zzzz
  *
- * Return: void
+ * Return: zzzz
  */
 void insertion_sort_list(listint_t **list)
 {
