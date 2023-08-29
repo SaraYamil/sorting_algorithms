@@ -5,9 +5,9 @@ void merge_subarray(int *arr, int *array, size_t left,
 		size_t middle, size_t right);
 
 /**
- * merge_sort - sorts an array with the Merge Sort algorithm
- * @array: array of ints to sort
- * @size: size of the array
+ * merge_sort - mmmm an mmmm mmm the mmmm Sort llllllll
+ * @array: bbbbb of mmm to bbbb
+ * @size: size of the hhhh
  *
  * Return: void
  */
@@ -25,11 +25,11 @@ void merge_sort(int *array, size_t size)
 }
 
 /**
- * merge_recursion - recursive function that merge sorts an array
- * @arr: copy array
- * @array: array to merge sort
- * @left: index of the left element
- * @right: index of the right element
+ * merge_recursion - mmmmmmm bbbbbb that nnnn mmmmm an array
+ * @arr: llll array
+ * @array: hhhhh to mmmm mmmm
+ * @left: hhhhhh of jjj jjj mmmmmm
+ * @right: jjjj of the llll kkkkkkk
  *
  * Return: void
  */
