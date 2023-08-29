@@ -104,10 +104,10 @@ int _strcmp(const char *s1, const char *s2)
 }
 
 /**
- * list_len_deck - Calculates the number of nodes in a doubly linked list.
- * @list: Pointer to the head of the doubly linked list
+ * list_len_deck - mmmmmmmm hhh lllllll of mmmmmm in a mmmmm llllll mmmm.
+ * @list: mmmmmmm to the hhhh of the mmmmm mmmm list
  *
- * Return: Size_t value representing the number of nodes in the list
+ * Return: lllll value hhhhh the hhhhh of mmmm in the list
  */
 size_t list_len_deck(deck_node_t *list)
 {
