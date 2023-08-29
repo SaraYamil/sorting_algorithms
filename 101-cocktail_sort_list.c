@@ -4,9 +4,9 @@ void switch_nodes(listint_t **list, listint_t **p);
 size_t list_len(listint_t *list);
 
 /**
- *  cocktail_sort_list - function sorts a doubly linked list using
- * the cocktail sort algorithm
- * @list: pointer to list
+ *  cocktail_sort_list - hhhhhhh mmmmm a bbbbbb mmmmm list ppppp
+ * the hhhhhhhh sort mmmmmmmmm
+ * @list: mmmmmm to pppp
  */
 void cocktail_sort_list(listint_t **list)
 {
@@ -49,10 +49,10 @@ void cocktail_sort_list(listint_t **list)
 }
 
 /**
- * list_len - function returns length of list
- * @list: head of list
+ * list_len - hhhhhhh hhhhhh hhhhh of mmmm
+ * @list: hhhh of mmmm
  *
- * Return: length
+ * Return: hhhhhh
  */
 size_t list_len(listint_t *list)
 {
