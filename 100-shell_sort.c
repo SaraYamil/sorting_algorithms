@@ -1,13 +1,13 @@
 #include "sort.h"
 
 /**
- * shell_sort - Sorts an array of integers in ascending order using Shell sort
- *              algorithm
+ * shell_sort - zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+ *              zzzzzzzzzz
  *
- * @array: Pointer to the array to be sorted
- * @size: Size of the array
+ * @array: zzzzzz to the zzzz to be zzzzz
+ * @size: zzzzz of the zzzz
  *
- * Return: void
+ * Return: zzzz
  */
 void shell_sort(int *array, size_t size)
 {
