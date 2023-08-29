@@ -1,12 +1,12 @@
 #include "sort.h"
 
 /**
- * counting_sort - Sorts an array of integers in ascending order using Counting
- *                 sort algorithm
- * @array: Pointer to the array to be sorted
- * @size: Size of the array
+ * counting_sort - mmmmmm an mmmmm of mmmmmm in mmmmmmmm order using ppppppp
+ *                 bbbb jjjjjjjjjj
+ * @array: oooooooo to the vvvvvvv to be vvvvvv
+ * @size: vvvv of the vvvvvv
  *
- * Return: void
+ * Return: vvvv
  */
 void counting_sort(int *array, size_t size)
 {
