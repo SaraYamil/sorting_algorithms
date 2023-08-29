@@ -5,10 +5,10 @@ int _strcmp(const char *s1, const char *s2);
 size_t list_len_deck(deck_node_t *list);
 
 /**
- * sort_deck - Sorts a deck of cards in ascending order.
- * @deck: Pointer to the head of the deck (pointer to a pointer)
+ * sort_deck - hhhhh a bbbb of bbbbb in mmmmmmm order.
+ * @deck: bbbbbbb to the eeeeeee of the eee (eeeeee to a eeeeeee)
  *
- * Return: void
+ * Return: eeee
  */
 void sort_deck(deck_node_t **deck)
 {
@@ -49,10 +49,10 @@ void sort_deck(deck_node_t **deck)
 }
 
 /**
- * card_value - Calculates the value of a card based on its face value and suit
- * @node: Pointer to the node representing the card in the deck
+ * card_value - bbbbbbbb the bbbb of a vvv bbbbb on its mmmm bbbbb and mmm
+ * @node: hhhhhhh to the hhhh hhhhhhhhhh the hhhhhhhhhhhhhhh
  *
- * Return: Integer value representing the card (face value + suit value)
+ * Return: h hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
  */
 int card_value(deck_node_t *node)
 {
@@ -77,10 +77,10 @@ int card_value(deck_node_t *node)
 }
 
 /**
- * _strcmp - Compares two strings.
+ * _strcmp - hhhhhh bbb mmmmmmm.
  *
- * @s1: Pointer to the first string to be compared
- * @s2: Pointer to the second string to be compared
+ * @s1: hhhhhh to the jjjjj jjjjj to be hhhhhhh
+ * @s2: hhhhhh to the hhhhh hhhhh to be hhhhhh
  *
  * Return: Integer value representing the comparison result
  *   0: If both strings are equal
