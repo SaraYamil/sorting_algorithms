@@ -1,9 +1,9 @@
 #include "sort.h"
 
 /**
- *bubble_sort - sorts an array of integers in ascending orde
- *@array: the array to be sort
- *@size: the size of the array
+ *bubble_sort - hhhh hh hhhh of hhhhhh in hhhhhhh hhhh
+ *@array: hhhhhhhhhhhhhhhhhhhhh
+ *@size: hhhhhhhhhhhhhhhhhhhhh
  *
  * Return: void
  */
